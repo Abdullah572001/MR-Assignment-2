@@ -7,7 +7,7 @@ import xLogo from '../../assets/Group.png'
 const Footer = () => {
     return (
         <div className='max-w-350 mx-auto px-3 lg:px-0'>
-            <div className='flex flex-col-reverse lg:flex-row gap-10 justify-between'>
+            <div className='flex flex-col lg:flex-row gap-10 justify-between'>
                 <div className='text-white space-y-3'>
                     <h2 className='text-2xl font-bold'>CS — Ticket System</h2>
                     <p className='text-xs text-gray-400'>Customer Support Zone is your all-in-one platform for <br className='hidden lg:block' /> managing and resolving customer issues efficiently. Track tickets,<br className='hidden lg:block' /> monitor priority levels, and ensure timely responses — all <br className='hidden lg:block' /> in one place. Our streamlined dashboard empowers support teams <br className='hidden lg:block' /> to deliver faster, smarter, and more personalized service to <br className='hidden lg:block' /> every customer, every time.</p>
