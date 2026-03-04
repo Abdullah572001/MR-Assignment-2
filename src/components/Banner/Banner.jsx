@@ -4,7 +4,7 @@ import bgImg from "../../assets/vector1.png";
 const Banner = () => {
   return (
     
-    <div className="max-w-350 mx-auto flex flex-col md:flex-row items-center justify-center gap-10 px-3 lg:px-0">
+    <div className="max-w-350 mx-auto flex flex-col md:flex-row items-center justify-center gap-10 px-3 lg:px-1">
         <div className="relative overflow-hidden w-full rounded-2xl flex items-center justify-center bg-[linear-gradient(135deg,#632EE3_0%,#9F62F2_100%)] h-60">
           <img
             className="w-[50%] relative top-0 left-0 h-full object-cover opacity-90"

@@ -3,7 +3,7 @@
     "id": "#1001",
     "issue_title": "Payment Not Processing",
     "issue_description": "Customer is unable to complete payment. Transaction fails at the final step with error code 500.",
-    "priority_level": "High",
+    "priority_level": "High Priority",
     "name": "Rafiul Islam",
     "date": "2026-03-01"
   },
@@ -11,7 +11,7 @@
     "id": "#1002",
     "issue_title": "Login Page Not Loading",
     "issue_description": "User cannot access the login page. The page keeps loading indefinitely without any response.",
-    "priority_level": "High",
+    "priority_level": "High Priority",
     "name": "Tasnim Akter",
     "date": "2026-03-01"
   },
@@ -19,7 +19,7 @@
     "id": "#1003",
     "issue_title": "Order Not Delivered",
     "issue_description": "Customer placed an order 10 days ago but has not received it yet. Tracking shows no update since last week.",
-    "priority_level": "Medium",
+    "priority_level": "Medium Priority",
     "name": "Mahmudul Hasan",
     "date": "2026-03-02"
   },
@@ -27,7 +27,7 @@
     "id": "#1004",
     "issue_title": "Refund Not Received",
     "issue_description": "Customer returned a product 2 weeks ago but the refund has not been credited to their account yet.",
-    "priority_level": "Medium",
+    "priority_level": "Medium Priority",
     "name": "Nusrat Jahan",
     "date": "2026-03-02"
   },
@@ -35,7 +35,7 @@
     "id": "#1005",
     "issue_title": "App Crashing on Startup",
     "issue_description": "Mobile app crashes immediately after opening. Issue occurs on both Android and iOS devices after the latest update.",
-    "priority_level": "High",
+    "priority_level": "High Priority",
     "name": "Sabbir Ahmed",
     "date": "2026-03-02"
   },
@@ -43,7 +43,7 @@
     "id": "#1006",
     "issue_title": "Wrong Item Delivered",
     "issue_description": "Customer received a completely different product than what was ordered. Requested an immediate exchange.",
-    "priority_level": "Medium",
+    "priority_level": "Medium Priority",
     "name": "Farida Begum",
     "date": "2026-03-03"
   },
@@ -51,7 +51,7 @@
     "id": "#1007",
     "issue_title": "Discount Code Not Working",
     "issue_description": "Promo code provided via email is not being accepted at checkout. Error says code is invalid.",
-    "priority_level": "Low",
+    "priority_level": "Low Priority",
     "name": "Imran Hossain",
     "date": "2026-03-03"
   },
@@ -59,7 +59,7 @@
     "id": "#1008",
     "issue_title": "Account Suspended Wrongly",
     "issue_description": "Customer's account was suspended without any prior notice or violation. Requesting immediate reactivation.",
-    "priority_level": "High",
+    "priority_level": "High Priority",
     "name": "Shakila Khanam",
     "date": "2026-03-03"
   },
@@ -67,7 +67,7 @@
     "id": "#1009",
     "issue_title": "Slow Website Performance",
     "issue_description": "Website takes more than 15 seconds to load product pages. Issue is affecting the shopping experience.",
-    "priority_level": "Low",
+    "priority_level": "Low Priority",
     "name": "Rezaul Karim",
     "date": "2026-03-03"
   },
@@ -75,7 +75,7 @@
     "id": "#1010",
     "issue_title": "Email Verification Not Sending",
     "issue_description": "New user did not receive the email verification link after registration. Checked spam folder as well.",
-    "priority_level": "Medium",
+    "priority_level": "Medium Priority",
     "name": "Sumaiya Islam",
     "date": "2026-03-03"
   }
