@@ -15,14 +15,14 @@ const Tickets = ({ ticketsPromise, task, setTask }) => {
       {/* Tickets container */}
       <div className="flex gap-8 flex-col-reverse lg:flex-row mt-10 lg:mt-0">
         {/* tickets card container */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-3/4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:w-3/4">
             {
                 tickets.map(ticket => <Ticket task={task} setTask={setTask} key={ticket.id} ticket={ticket}></Ticket>)
             }
         </div>
             
         {/* task status */}
-        <div className="w-1/4">
+        <div className="lg:w-1/4">
             <div className="space-y-3">
                 <h2 className="text-xl font-bold">Task Status</h2>
                 {
